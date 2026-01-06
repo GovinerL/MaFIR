@@ -175,6 +175,15 @@ class CustomDataset(Dataset):
         pass
 ```
 
+## Citation
+```python
+@article{MaFIR2026,
+  title={MaFIR: High-Fidelity Fisheye Image Rectification via Manhattan Attention and Dynamic Feature Optimization},
+  author={Gao, Wenzhuo and Zhang, Bo},
+  journal={Submitted to The Visual Computer},
+  year={2026}
+}
+```
 
 ## License
 
