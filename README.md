@@ -10,6 +10,8 @@
 
 ## Overview
 
+Fisheye lenses, with their ultra-wide field of view, are invaluable in computer vision tasks such as video surveillance, autonomous driving, and virtual reality. However, the severe radial geometric distortion they introduce poses significant challenges. This paper introduces MaFIR, a novel framework for fisheye image rectification that leverages Manhattan Attention and Dynamic Feature Reweighting. MaFIR employs a pre-training-fine-tuning strategy to decouple geometric distortion from content features, enhancing texture representation and model efficiency. Experimental results on the Place365 dataset demonstrate MaFIR's superiority over mainstream models, achieving a PSNR of 25.19 dB and an SSIM of 0.91, while processing 1024×1024 images in just 32.77 ms. 
+
 MaFIR is a deep learning-based fisheye image rectification system that employs a two-stage training approach:
 - **Pre-training Stage**: Learns distortion-aware representations from fisheye images
 - **Fine-tuning Stage**: Learns pixel-wise flow mapping for image rectification
