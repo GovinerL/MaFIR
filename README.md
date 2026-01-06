@@ -1,6 +1,6 @@
 # MaFIR - Fisheye Image Rectification via Manhattan Attention
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18162783.svg)](https://doi.org/10.5281/zenodo.18162783) [![PyTorch](https://img.shields.io/badge/PyTorch-1.10.0-red)](https://pytorch.org/) [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.10.0-red)](https://pytorch.org/) [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
 > **Note:** This repository is the official implementation of the manuscript *"MaFIR: High-Fidelity Fisheye Image Rectification via Manhattan Attention and Dynamic Feature Optimization"*, currently submitted to **The Visual Computer**.
 
