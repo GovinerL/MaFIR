@@ -176,6 +176,9 @@ class CustomDataset(Dataset):
 ```
 
 ## Citation
+
+If you find this code or our paper useful for your research, please cite our work:
+
 ```python
 @article{MaFIR2026,
   title={MaFIR: High-Fidelity Fisheye Image Rectification via Manhattan Attention and Dynamic Feature Optimization},
