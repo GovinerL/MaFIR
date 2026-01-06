@@ -163,18 +163,6 @@ class CustomDataset(Dataset):
         pass
 ```
 
-## Experimental Results
-
-The project achieves excellent fisheye image rectification results on multiple datasets. For detailed experimental results, please refer to the original paper.
-
-## Acknowledgments
-
-This project is built upon the following excellent works:
-
-- [PCN](https://github.com/uof1745-cmd/PCN)
-- [DaFIR]([lzk9508/DaFIR: The official code for "DaFIR: Distortion-Aware Representation Learning for Fisheye Image Rectification", TCSVT, 2023.](https://github.com/lzk9508/DaFIR))
-
-We thank these projects for providing the foundation for our research.
 
 ## License
 
