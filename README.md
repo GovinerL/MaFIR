@@ -129,9 +129,12 @@ The project supports various dataset formats, including:
 ### Dataset Structure
 
 ```
-dataset/
+dataset1/
 ├── data/           # Fisheye images
-├── ddm/            # Distortion labels (pre-training)
+└── ddm/            # Distortion labels (pre-training)
+
+dataset2/
+├── data/           # Fisheye images
 └── flow/           # Flow mapping labels (fine-tuning)
 ```
 
