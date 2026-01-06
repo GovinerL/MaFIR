@@ -13,7 +13,8 @@
 MaFIR is a deep learning-based fisheye image rectification system that employs a two-stage training approach:
 - **Pre-training Stage**: Learns distortion-aware representations from fisheye images
 - **Fine-tuning Stage**: Learns pixel-wise flow mapping for image rectification
-  <img width="617" height="317" alt="image" src="https://github.com/user-attachments/assets/622eb849-8140-430a-b4ce-269b4348d78c" />
+- <img width="617" height="317" alt="image" src="https://github.com/user-attachments/assets/8c4b084e-4084-4885-bd1b-3ecb093cd556" />
+
 
 
 ## Project Structure
